@@ -1,0 +1,38 @@
+//auth
+export const AUTH_REQUEST = 'AUTH_REQUEST'
+export const AUTH_SUCCESS = 'AUTH_SUCCESS'
+export const AUTH_ERROR = 'AUTH_ERROR'
+export const AUTH_LOGOUT = 'AUTH_LOGOUT'
+export const REGISTER_USER = 'REGISTER_USER'
+
+//user
+export const USER_REQUEST = 'USER_REQUEST'
+export const USER_SUCCESS = 'USER_SUCCESS'
+export const USER_ERROR = 'USER_ERROR'
+
+//menu
+export const GET_TOP_MENU = 'GET_TOP_MENU'
+export const GET_BOTTOM_MENU = 'GET_BOTTOM_MENU'
+
+//my project items
+export const GET_PROJECT_ITEMS = 'GET_PROJECT_ITEMS'
+export const GET_PROJECT_SCOPE_ITEMS = 'GET_PROJECT_SCOPE_ITEMS'
+
+//catalog items
+export const GET_CATALOG_ITEMS = 'GET_CATALOG_ITEMS'
+
+//construction items
+export const GET_CONSTRUCTION_ITEMS = 'GET_CONSTRUCTION_ITEMS'
+
+//statistic items
+export const GET_STATISTIC_ITEMS = 'GET_STATISTIC_ITEMS'
+
+//necessary items
+export const GET_NECESSARY_DETAILS = 'GET_NECESSARY_DETAILS'
+export const GET_NECESSARY_FASTENERS = 'GET_NECESSARY_FASTENERS'
+
+//cart
+export const GET_CART_ITEMS = 'GET_CART_ITEMS'
+export const UPDATE_CART_ITEMS = 'UPDATE_CART_ITEMS'
+export const ADD_NECESSARY_DETAILS_TO_CART = 'ADD_NECESSARY_DETAILS_TO_CART'
+export const ADD_NECESSARY_FASTENERS_TO_CART = 'ADD_NECESSARY_FASTENERS_TO_CART'
