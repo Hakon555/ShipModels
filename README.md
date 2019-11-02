@@ -1,5 +1,7 @@
 # vue-ship-models
 
+Описание проекта в файле "Project description.txt"
+
 ## Project setup
 ```
 npm install
